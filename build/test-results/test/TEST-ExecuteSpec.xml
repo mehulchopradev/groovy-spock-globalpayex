@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExecuteSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-02T09:22:41" hostname="Mehuls-MacBook-Pro.local" time="0.892">
+  <properties/>
+  <testcase name="test executeAsync() for asynchronous code using AsyncConditions" classname="ExecuteSpec" time="0.884"/>
+  <testcase name="test executeAsync() for asynchronous code using BlockingVariable" classname="ExecuteSpec" time="0.008"/>
+  <system-out><![CDATA[executeAsync() is about to schedule your runnable job
+executeAsync() has scheduled your runnable job
+executeAsync() is about to schedule your runnable job
+executeAsync() has scheduled your runnable job
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
